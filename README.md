@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/oymin2001/)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oymin2001">
 <!--
 **oymin2001/oymin2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
